@@ -1,6 +1,3 @@
-# فرض استخدام بايثون 3.10 (هذا السطر هو الحل السحري)
-python_version==3.10.13
-
 flask
 torch
 torchvision
