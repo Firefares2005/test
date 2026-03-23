@@ -1,9 +1,12 @@
+# فرض استخدام بايثون 3.10 (هذا السطر هو الحل السحري)
+python_version==3.10.13
+
 flask
-torch==2.1.0
-torchvision==0.16.0
+torch
+torchvision
 opencv-python-headless
 numpy==1.26.4
-basicsr==1.4.2
+basicsr
 realesrgan
 gunicorn
 eventlet
