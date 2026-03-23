@@ -1,9 +1,11 @@
 flask
-torch
-torchvision
+torch==2.1.0
+torchvision==0.16.0
 opencv-python-headless
-numpy
-basicsr
+numpy==1.26.4
+basicsr==1.4.2
 realesrgan
 gunicorn
 eventlet
+toml
+requests
